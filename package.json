@@ -1,0 +1,17 @@
+{
+	"name": "@ngomar/ng-npm-greeting",
+	"version": "2.0.2",
+	"description": "Greeting from Nuara Group",
+	"repository": "omarng/ng-npm-greeting",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"npm",
+		"package",
+		"ngomar"
+	],
+	"author": "",
+	"license": "ISC"
+}
