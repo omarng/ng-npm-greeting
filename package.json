@@ -1,6 +1,6 @@
 {
 	"name": "@ngomar/ng-npm-greeting",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "Greeting from Nuara Group",
 	"repository": "omarng/ng-npm-greeting",
 	"main": "index.js",
